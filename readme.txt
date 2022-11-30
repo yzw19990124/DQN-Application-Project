@@ -1,5 +1,5 @@
 Reiforcement Learning DQN Project
 
-Installation:
+MarsExplorer API Installation:
 $ git clone https://github.com/dimikout3/GeneralExplorationPolicy.git
 $ pip install -e mars-explorer
